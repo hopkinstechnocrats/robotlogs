@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "20210313_122707",
+        "elapsedAutoTime": 16.346058,
+        "successful": false
+    },
+    {
+        "timestamp": "20210313_122907",
+        "elapsedAutoTime": 16.371816,
+        "successful": false
+    },
+    {
+        "timestamp": "20210313_123326",
+        "elapsedAutoTime": 16.625996,
+        "successful": true
+    },
+    {
+        "timestamp": "20210313_124101",
+        "elapsedAutoTime": 14.255016,
+        "successful": true
+    },
+    {
+        "timestamp": "20210313_124237",
+        "elapsedAutoTime": 12.927396000000002,
+        "successful": true
+    },
+    {
+        "timestamp": "20210313_124412",
+        "elapsedAutoTime": 12.540746000000002,
+        "successful": true
+    }
+]
